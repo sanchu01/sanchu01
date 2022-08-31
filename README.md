@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanchu01
+- 👋 Hi, I’m Sanchez Innocencia
 - 👀 I’m interested in the field of Data Analytics and Data Science
 - 🌱 I’m currently pursuing my M.Sc. Decision and Computing Sciences (Integrated)
 - 💞️ I’m looking to collaborate on ...
